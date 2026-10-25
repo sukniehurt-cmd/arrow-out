@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "name": "Stado",
+  "cols": 5,
+  "rows": 4,
+  "maxMoves": 7,
+  "par": 5,
+  "birds": [
+    { "x": 2, "y": 1, "dir": "down" },
+    { "x": 4, "y": 1, "dir": "up" },
+    { "x": 2, "y": 3, "dir": "up" },
+    { "x": 1, "y": 1, "dir": "left" },
+    { "x": 3, "y": 0, "dir": "left" },
+    { "x": 2, "y": 0, "dir": "left" },
+    { "x": 0, "y": 0, "dir": "right" },
+    { "x": 0, "y": 3, "dir": "up" },
+    { "x": 4, "y": 2, "dir": "left" },
+    { "x": 1, "y": 0, "dir": "left" },
+    { "x": 3, "y": 2, "dir": "right" }
+  ]
+}

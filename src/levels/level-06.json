@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "name": "Kłopotliwi sąsiedzi",
+  "cols": 5,
+  "rows": 4,
+  "maxMoves": 11,
+  "par": 9,
+  "birds": [
+    { "x": 4, "y": 3, "dir": "right" },
+    { "x": 4, "y": 0, "dir": "right" },
+    { "x": 3, "y": 3, "dir": "down" },
+    { "x": 0, "y": 1, "dir": "up" },
+    { "x": 4, "y": 2, "dir": "right" },
+    { "x": 3, "y": 2, "dir": "down" },
+    { "x": 1, "y": 1, "dir": "up" },
+    { "x": 2, "y": 2, "dir": "down" },
+    { "x": 0, "y": 0, "dir": "left" },
+    { "x": 1, "y": 0, "dir": "left" },
+    { "x": 1, "y": 2, "dir": "down" },
+    { "x": 3, "y": 1, "dir": "up" },
+    { "x": 2, "y": 1, "dir": "down" }
+  ]
+}

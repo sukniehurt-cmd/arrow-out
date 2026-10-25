@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "name": "Wielkie płoszenie",
+  "cols": 7,
+  "rows": 5,
+  "maxMoves": 10,
+  "par": 8,
+  "birds": [
+    { "x": 3, "y": 1, "dir": "left" },
+    { "x": 6, "y": 1, "dir": "right" },
+    { "x": 6, "y": 3, "dir": "down" },
+    { "x": 5, "y": 4, "dir": "left" },
+    { "x": 1, "y": 4, "dir": "right" },
+    { "x": 1, "y": 3, "dir": "left" },
+    { "x": 0, "y": 3, "dir": "down" },
+    { "x": 4, "y": 2, "dir": "down" },
+    { "x": 5, "y": 0, "dir": "right" },
+    { "x": 2, "y": 1, "dir": "left" },
+    { "x": 0, "y": 1, "dir": "left" },
+    { "x": 3, "y": 0, "dir": "right" },
+    { "x": 4, "y": 1, "dir": "down" },
+    { "x": 3, "y": 2, "dir": "right" },
+    { "x": 4, "y": 4, "dir": "up" },
+    { "x": 0, "y": 4, "dir": "down" },
+    { "x": 5, "y": 1, "dir": "down" },
+    { "x": 4, "y": 3, "dir": "down" },
+    { "x": 0, "y": 0, "dir": "down" },
+    { "x": 0, "y": 2, "dir": "down" }
+  ]
+}

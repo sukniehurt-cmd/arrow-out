@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "name": "Zaczyna się wiać",
+  "cols": 6,
+  "rows": 4,
+  "maxMoves": 9,
+  "par": 7,
+  "birds": [
+    { "x": 3, "y": 1, "dir": "left" },
+    { "x": 4, "y": 2, "dir": "left" },
+    { "x": 5, "y": 2, "dir": "right" },
+    { "x": 0, "y": 2, "dir": "up" },
+    { "x": 2, "y": 0, "dir": "left" },
+    { "x": 3, "y": 0, "dir": "left" },
+    { "x": 3, "y": 3, "dir": "right" },
+    { "x": 4, "y": 1, "dir": "up" },
+    { "x": 1, "y": 3, "dir": "up" },
+    { "x": 4, "y": 0, "dir": "up" },
+    { "x": 0, "y": 0, "dir": "down" },
+    { "x": 2, "y": 1, "dir": "left" },
+    { "x": 0, "y": 3, "dir": "down" },
+    { "x": 1, "y": 0, "dir": "up" }
+  ]
+}

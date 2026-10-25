@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "name": "Gęsty szpaler",
+  "cols": 6,
+  "rows": 5,
+  "maxMoves": 9,
+  "par": 7,
+  "birds": [
+    { "x": 5, "y": 2, "dir": "left" },
+    { "x": 2, "y": 2, "dir": "right" },
+    { "x": 1, "y": 0, "dir": "down" },
+    { "x": 0, "y": 1, "dir": "right" },
+    { "x": 5, "y": 4, "dir": "down" },
+    { "x": 4, "y": 2, "dir": "left" },
+    { "x": 1, "y": 2, "dir": "down" },
+    { "x": 3, "y": 4, "dir": "up" },
+    { "x": 4, "y": 0, "dir": "right" },
+    { "x": 2, "y": 4, "dir": "down" },
+    { "x": 3, "y": 2, "dir": "left" },
+    { "x": 0, "y": 0, "dir": "up" },
+    { "x": 5, "y": 1, "dir": "down" },
+    { "x": 0, "y": 3, "dir": "right" },
+    { "x": 2, "y": 3, "dir": "left" },
+    { "x": 4, "y": 4, "dir": "right" },
+    { "x": 1, "y": 1, "dir": "up" }
+  ]
+}

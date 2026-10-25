@@ -1,0 +1,29 @@
+{
+  "name": "shoo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "typecheck": "tsc --noEmit",
+    "solve": "tsx scripts/solve.ts",
+    "generate": "tsx scripts/generate.ts",
+    "test": "tsx --test scripts/test-sim.ts",
+    "cap:sync": "npm run build && cap sync android",
+    "android:open": "cap open android",
+    "android:apk": "npm run cap:sync && cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.5.3",
+    "phaser": "^4.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}
